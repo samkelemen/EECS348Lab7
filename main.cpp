@@ -99,7 +99,7 @@ public:
 };
 
 int main() {
-  // Example usage:
+  // The description of the user input was unclear, but the code should be straight forward to interact with
   Matrix mat1;
   cout << "Enter values for Matrix 1 (" << SIZE << " by " << SIZE << ") seperated by spaces:" << endl;
   mat1.readFromStdin();
